@@ -1,0 +1,1 @@
+# PowerShell-tool-designed-for-integration-with-Microsoft-EntraID-and-Microsoft-Intune
